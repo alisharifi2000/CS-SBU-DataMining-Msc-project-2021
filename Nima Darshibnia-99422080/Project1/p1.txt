@@ -1,0 +1,4 @@
+This project contains:
+  exer1.ipynb
+  exer1.pdf
+  immo_data.csv
