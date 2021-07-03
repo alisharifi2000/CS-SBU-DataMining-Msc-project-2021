@@ -43,19 +43,19 @@ y_train_cat = np.reshape(y_train_cat, (5, 1, 550))
 ### regressor LSTM
 
 
-# model = Sequential()
-# model.add(LSTM(550, input_shape=(1, 550), return_sequences=True))
-# model.add(Dense(550))
-# model.compile(loss='mean_absolute_error', optimizer='adam', metrics=['accuracy'])
-# model.fit(x_tr, y_tr, epochs=10000, batch_size=1, verbose=2, validation_data=(x_test, y_test))
-#
-#
-# predict = model.predict(x_test)
-# predict = np.reshape(predict, (550, ))
-# y_test = np.reshape(y_test, (550, ))
-#
-# print('LSTM accuracy:', return_accuracy(predict, y_test))
-# print('LSTM RMSE:', mean_squared_error(y_test, predict, squared=False))
+model = Sequential()
+model.add(LSTM(550, input_shape=(1, 550), return_sequences=True))
+model.add(Dense(550))
+model.compile(loss='mean_absolute_error', optimizer='adam', metrics=['accuracy'])
+model.fit(x_tr, y_tr, epochs=10000, batch_size=1, verbose=2, validation_data=(x_test, y_test))
+
+
+predict = model.predict(x_test)
+predict = np.reshape(predict, (550, ))
+y_test = np.reshape(y_test, (550, ))
+
+print('LSTM accuracy:', return_accuracy(predict, y_test))
+print('LSTM RMSE:', mean_squared_error(y_test, predict, squared=False))
 
 ### categorial LSTM
 
