@@ -1,0 +1,6 @@
+This project contains:
+Bitcoin.csv
+exer3.ipynb
+exer3.pdf
+mobileset.csv
+تمرین 3.docx
