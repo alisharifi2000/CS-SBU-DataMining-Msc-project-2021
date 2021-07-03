@@ -1,0 +1,6 @@
+This project contains:
+exer2.ipynb
+exer2.pdf
+immo_data.csv
+mobileset.csv
+تمرین 2.docx
