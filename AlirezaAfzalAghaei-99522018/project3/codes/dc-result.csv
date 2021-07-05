@@ -1,0 +1,17 @@
+Criterion,Max depth,Splitter,Test Accuracy,Train Accuracy
+gini,5,random,74.88,77.60000000000001
+gini,5,best,81.93,88.11
+gini,10,random,82.58,95.12
+gini,10,best,82.43,99.31
+gini,15,random,82.63000000000001,99.91
+gini,15,best,81.88,100.0
+gini,20,random,82.98,100.0
+gini,20,best,82.13000000000001,100.0
+entropy,5,random,75.62,77.95
+entropy,5,best,81.83,87.57000000000001
+entropy,10,random,83.98,96.63000000000001
+entropy,10,best,84.38,99.86
+entropy,15,random,82.88,100.0
+entropy,15,best,84.43,100.0
+entropy,20,random,84.03,100.0
+entropy,20,best,84.17999999999999,100.0
