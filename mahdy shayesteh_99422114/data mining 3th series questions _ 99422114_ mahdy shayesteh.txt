@@ -1,0 +1,4 @@
+https://github.com/mahhhdy/SBU_DataMining_Python/blob/main/exercise3_part1_mobile_price_prediction_using_SVM.ipynb
+https://github.com/mahhhdy/SBU_DataMining_Python/blob/main/exercise3_part2.ipynb
+https://github.com/mahhhdy/SBU_DataMining_Python/blob/main/exercise3_part3.ipynb
+https://github.com/mahhhdy/SBU_DataMining_Python/blob/main/exercise3_part4_Indicators.ipynb
