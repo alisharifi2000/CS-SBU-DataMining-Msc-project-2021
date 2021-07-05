@@ -1,0 +1,6 @@
+This project contains:
+Data Analysis on NYC Airbnb.docx
+Data Analysis on NYC Airbnb.pdf
+exer4.ipynb
+NYC_2019.csv
+تمرین سری اول.pdf
