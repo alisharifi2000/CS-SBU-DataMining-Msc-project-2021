@@ -1,6 +1,6 @@
 # CS-SBU-DataMining-Msc-project-2021
 
-[Data Mining](https://alisharifi2000.github.io/CS-SBU-DataMining-Msc-3992/) Lecturer : ** [Hadi Farahani](https://scholar.google.com/citations?user=N4TgzzoAAAAJ&hl=en) **
+[Data Mining](https://alisharifi2000.github.io/CS-SBU-DataMining-Msc-3992/) Lecturer : [**Hadi Farahani**](https://scholar.google.com/citations?user=N4TgzzoAAAAJ&hl=en)
 Lecture: Saturday and Monday 08:00-09:30 AM (Fall 2020) 
 
 Projects of DataMining Course for Master in Computer Science Department of Shahid Beheshti University 
